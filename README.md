@@ -1,5 +1,10 @@
 # Badge
 
+<p align="center">
+  <img src="assets/cover.png" alt="badge" width="800"/>
+</p>
+
+
 > 🎨 A lightweight, self-contained badge generator for creating beautiful SVG badges directly in your browser.
 
 ![Version](https://img.shields.io/github/v/release/chaito10/badge)
