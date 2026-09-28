@@ -1,3 +1,8 @@
+> [!WARNING]
+> **This repository is archived**  
+> This project is no longer maintained or updated. The code is kept here for historical purposes and reference. No further issues or pull requests will be considered.
+
+
 # Badge
 
 <p align="center">
